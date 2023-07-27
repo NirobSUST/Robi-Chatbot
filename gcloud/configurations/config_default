@@ -1,0 +1,8 @@
+[core]
+account = rifatjahanazad@gmail.com
+project = bs-bl-291005
+
+[compute]
+zone = us-east1-b
+region = us-east1
+
